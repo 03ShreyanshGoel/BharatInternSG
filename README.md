@@ -2,8 +2,10 @@
 This repository contains my projects during my Internship in Bharat Intern 
 
 Task-1: Temperature Coverter
-        https://03shreyanshgoel.github.io/tempConverter/
+        Repository: https://github.com/03ShreyanshGoel/tempConverter
+        Website: https://03shreyanshgoel.github.io/tempConverter/
 
 
 Task-2: Portfolio Website 
-        https://03shreyanshgoel.github.io/portfolioWebsite/
+        Repository: https://github.com/03ShreyanshGoel/portfolioWebsite
+        Website: https://03shreyanshgoel.github.io/portfolioWebsite/
